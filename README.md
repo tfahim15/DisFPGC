@@ -48,7 +48,7 @@ mine_subgraphs.py
 train_eval.py
 cover_freq.txt
 ```
-<b>mine_subgraphs.py:</b> contains codes for mining candidate feature subgraphs. Mining can be skipped as the output of mining is saved in <i>cover_freq.txt</i>. To run,
+<b>mine_subgraphs.py:</b> contains codes for mining candidate feature subgraphs. Mining can be skipped as the output of mining is saved in <i>cover_freq.txt</i> in advance. To run,
 ```mine_subgraphs
 > cd code/<dataset_name>
 > python mine_subgraphs.py
